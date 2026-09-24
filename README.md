@@ -4,7 +4,7 @@
 
 ## About Me
 
-[Replace this paragraph with at least three sentences: who you are, why you are learning cybersecurity, and one learning goal for this course. Keep the `## About Me` heading and the rest of this README.]
+[My name is Tiwonge, and I have a background in IT support and customer service. I am learning cybersecurity because I am interested in technology and want to build a career helping protect systems, networks, and information from security threats. One of my learning goals for this course is to strengthen my cybersecurity and technical skills so I can become more confident working in an entry-level cybersecurity role.]
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
